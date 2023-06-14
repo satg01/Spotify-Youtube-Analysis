@@ -1,5 +1,5 @@
 # Spotify-Youtube-Analysis
-Dataset link : 
+# Dataset link : https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 # Throughout this project, I embarked on an insightful journey, conducting an exhaustive Exploratory Data Analysis encompassing the following key tasks:
 
 📌 Importing crucial libraries such as pandas, numpy, matplotlib, and seaborn to facilitate efficient data processing.
