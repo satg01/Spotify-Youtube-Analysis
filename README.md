@@ -3,10 +3,15 @@
 # Throughout this project, I embarked on an insightful journey, conducting an exhaustive Exploratory Data Analysis encompassing the following key tasks:
 
 📌 Importing crucial libraries such as pandas, numpy, matplotlib, and seaborn to facilitate efficient data processing.
+
 📌 Loading and preparing the dataset meticulously for comprehensive analysis.
+
 📌 Engaging in initial data exploration during the EDA phase to develop a profound comprehension of the variables.
+
 📌 Employing effective data cleaning techniques to ensure precise and dependable analysis.
+
 📌 Presenting captivating data visualizations to unveil concealed patterns and trends.
+
 📌 Deriving meaningful conclusions from the analysis, thereby paving the path for actionable insights.
 
 # Allow me to share intriguing insights derived from the Spotify Youtube Data Analysis:
