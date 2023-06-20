@@ -1,6 +1,7 @@
 <h2>Project Name :</h2> Spotify and YouTube Data Analysis
-dataset : https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
-Overview
+
+<h4>Dataset  link </h4>: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
+<h3>Overview : </h3>
 The Spotify and YouTube Data Analysis project aims to gain insights into music streaming trends and artist performance by analyzing data from both platforms. Through an extensive Exploratory Data Analysis (EDA), this project explores the relationship between views, likes, streams, and other variables to uncover interesting patterns and provide actionable insights for music streaming platforms, artists, and enthusiasts.
 
 <h3>Project Highlights</h3
