@@ -33,4 +33,13 @@ The Spotify and YouTube Data Analysis project provides valuable insights into mu
 
 Speechiness and Instrumentalness: A correlation was observed between speechiness and tempo, where songs with faster tempos exhibited a higher level of speechiness. Furthermore, songs with higher speechiness tended to have a lower level of instrumentalness. This implies that genres or styles emphasizing vocal delivery, such as spoken word or rap, tend to have faster tempos and lower emphasis on instrumental elements.
 
+1. Conducted Data Analysis with Python: Leveraged Python libraries including Pandas, 
+NumPy, Matplotlib, and Seaborn to perform comprehensive data analysis tasks.
+2. Created a visually compelling Power BI dashboard utilizing various visualizations such as 
+bar charts, bubble charts, and other relevant visuals.
+3. Derived Insights and Conclusions: Synthesized findings from the analysis by utilizing a 
+database, and generated meaningful insights and conclusions. These insights contributed 
+to informed decision-making and provided valuable recommendations based on the 
+analyzed data
+
 In conclusion, the Spotify and YouTube Data Analysis project provides valuable insights into artist popularity, album preferences, user engagement, and musical characteristics. These insights can be leveraged by music streaming platforms, artists, and marketing teams to make informed decisions regarding content promotion, audience targeting, and playlist curation.
