@@ -29,17 +29,17 @@ From the Spotify and YouTube Data Analysis, several intriguing insights emerged:
 
 📌 The album "Album Vida" garnered the highest number of likes at 120 million. "See You Again" and "The Heist" followed with 80 million and 74 million likes, respectively.
 
-📌 "Album BE" stood out as the most commented album, along with "Map of the Soul." Interestingly, a higher number of comments correlated with lesser-known albums. However, "Vida" defied this trend, accumulating higher likes and comments, signaling a positive response.
+📌 "Album BE" stood out as the most commented album, along with "Map of the Soul." Interestingly, a higher number of comments correlated with lesser-known albums. However, "Vida" defied this trend, accumulating higher likes and comments, signalling a positive response.
 
 📌 A correlation existed between speechiness and tempo, with faster tempos typically associated with higher speechiness.
 
-📌 Songs with higher speechiness often displayed lower instrumentalness, indicating an emphasis on lyrics and vocal delivery, as seen in spoken word or rap genres.
+📌 Songs with higher speeches often displayed lower instrumentals, indicating an emphasis on lyrics and vocal delivery, as seen in spoken word or rap genres.
 
 ## Python File Link
 
 For a detailed look at the analysis and code, you can explore the Python file:
 
-📌 **Python File Link:** [Link to Python File](link-to-python-file)
+📌 **Python File Link:** [Link to Python File](https://drive.google.com/file/d/1NibcsX8ek7h_eDYBS3qcCVCgFmCB4nNi/view?usp=drive_link)
 
 ## Conclusion
 
