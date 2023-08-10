@@ -20,6 +20,63 @@ The most popular album type was "Album," representing 75% of the total data, sur
 The album "Album Vida" received the highest number of likes, accumulating 120 million likes. "See You Again" and "The Heist" secured the second and third positions, respectively, with 80 million and 74 million views. <br>📌
 The album "BE" stood out as the most commented album, followed by "Map of the Soul." Interestingly, a higher number of comments implies a lesser-known album.  However, "Vida" defied this trend by amassing higher likes while also being the most commented song, garnering a positive response. <br>📌
 A correlation between speechiness and tempo was evident. Songs with faster tempos tended to exhibit a higher level of speechiness. <br>📌
+
+# Spotify and YouTube Data Analysis
+
+## Overview
+
+Welcome to the Spotify and YouTube Data Analysis project! This analysis aims to uncover trends and insights within music streaming data from both platforms. Through a comprehensive Exploratory Data Analysis (EDA), we explore the relationships between views, likes, streams, and other variables to reveal patterns and actionable insights for music streaming platforms, artists, and enthusiasts.
+
+## Project Highlights
+
+📌 **Data Preparation:** Rigorously cleaned and prepared the dataset, ensuring data quality and integrity for robust analysis.
+
+📌 **Initial Exploration:** Engaged in initial data exploration during EDA to gain a deep understanding of variables and distributions.
+
+📌 **Effective Cleaning:** Employed advanced data cleaning techniques to handle missing values, outliers, and inconsistencies, ensuring accuracy in analysis.
+
+📌 **Data Visualization:** Utilized Matplotlib and Seaborn to create compelling visualizations, revealing hidden trends in Spotify and YouTube data.
+
+📌 **Meaningful Conclusions:** Derived insights to shed light on artist popularity, likes, views, streams, album types, and correlations between variables.
+
+## Insights
+
+From the Spotify and YouTube Data Analysis, several intriguing insights emerged:
+
+📌 The artist "Macklemore & Ryan Lewis" garnered a remarkable 10.23 billion views, securing the top spot. "Justin Bieber" followed closely with 10.12 billion views, while "BTS" held third place with 10 billion views.
+
+📌 "BTS" emerged as the most liked artist, amassing an impressive 14 million likes. "Blackpink" secured the second position in likes. In terms of streams, "Post Malone" led with 1.2 billion streams, closely followed by "Ed Sheeran" with 1.74 billion streams.
+
+📌 The dominant album type was "Album," accounting for 75% of the data, surpassing compilations and singles.
+
+📌 The album "Album Vida" garnered the highest number of likes at 120 million. "See You Again" and "The Heist" followed with 80 million and 74 million likes, respectively.
+
+📌 "Album BE" stood out as the most commented album, along with "Map of the Soul." Interestingly, a higher number of comments correlated with lesser-known albums. However, "Vida" defied this trend, accumulating higher likes and comments, signaling a positive response.
+
+📌 A correlation existed between speechiness and tempo, with faster tempos typically associated with higher speechiness.
+
+📌 Songs with higher speechiness often displayed lower instrumentalness, indicating an emphasis on lyrics and vocal delivery, as seen in spoken word or rap genres.
+
+## Python File Link
+
+For a detailed look at the analysis and code, you can explore the Python file:
+
+📌 **Python File Link:** [Link to Python File](link-to-python-file)
+
+## Conclusion
+
+The Spotify and YouTube Data Analysis provides insights into music streaming trends and artist performance:
+
+📌 **Artist Popularity:** "Macklemore & Ryan Lewis" emerged as the most viewed artist, followed by "BTS." "Post Malone" dominated in streams. These findings underscore the influence of these artists in the music streaming landscape.
+
+📌 **Album Types:** "Album" was the preferred form of music consumption, constituting 75% of the data. This insight guides music platforms and artists in prioritizing album releases.
+
+📌 **Likes and Comments:** "Album Vida" resonated well with users, generating high likes and comments. This suggests strong engagement and user interaction.
+
+📌 **Speechiness and Instrumentalness:** Songs with faster tempos tended to have higher speechiness and lower instrumentalness, reflecting specific musical styles.
+
+Leveraging Python and Power BI, this project provides insights for data-driven decisions, influencing content promotion, audience targeting, and playlist curation.
+
 Songs with a higher level of speechiness often possessed a lower level of instrumentalness, reflecting the emphasis on lyrics and vocal delivery in spoken word or rap.
 
 <h2>Conclusion</h2>
